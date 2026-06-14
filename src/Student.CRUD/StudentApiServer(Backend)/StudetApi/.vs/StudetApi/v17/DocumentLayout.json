@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudetApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27094C59-A842-43B5-9E98-11CA550B4D4C}|StudetApi.csproj|d:\\coreces\\c#\\mini projests\\api\u0027s\\restfull api\\studetapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27094C59-A842-43B5-9E98-11CA550B4D4C}|StudetApi.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699F0AF6-5316-4B81-BB0C-6D0A78CB5FBA}|..\\StudentAPIDataAccessLayer\\StudentAPIDataAccessLayer.csproj|d:\\coreces\\c#\\mini projests\\api\u0027s\\restfull api\\studentapidataaccesslayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27094C59-A842-43B5-9E98-11CA550B4D4C}|StudetApi.csproj|d:\\coreces\\c#\\mini projests\\api\u0027s\\restfull api\\studetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27094C59-A842-43B5-9E98-11CA550B4D4C}|StudetApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6E82BD-39A8-4C79-BEAF-053561AF0469}|..\\StudentAPIBusinesslayer\\StudentAPIBusinesslayer.csproj|d:\\coreces\\c#\\mini projests\\api\u0027s\\restfull api\\studentapibusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudentAPIDataAccessLayer\\StudentData.cs",
+              "RelativeDocumentMoniker": "..\\StudentAPIDataAccessLayer\\StudentData.cs",
+              "ToolTip": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudentAPIDataAccessLayer\\StudentData.cs",
+              "RelativeToolTip": "..\\StudentAPIDataAccessLayer\\StudentData.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAhwHMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:35:06.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudetApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudetApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:07:48.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudetApi\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudetApi\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwH4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:21:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudentAPIBusinesslayer\\Student.cs",
+              "RelativeDocumentMoniker": "..\\StudentAPIBusinesslayer\\Student.cs",
+              "ToolTip": "D:\\coreces\\C#\\mini Projests\\API\u0027s\\RestFull Api\\StudentAPIBusinesslayer\\Student.cs",
+              "RelativeToolTip": "..\\StudentAPIBusinesslayer\\Student.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwFoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:13:23.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

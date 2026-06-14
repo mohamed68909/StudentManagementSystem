@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student CRUD</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 style="text-align: center;">Student Management</h1>
+
+  <form id="studentForm" style="text-align: center;">
+    <input type="hidden" id="studentId">
+    <input type="text" id="name" placeholder="Name" required>
+    <input type="number" id="age" placeholder="Age" required>
+    <input type="number" id="grade" placeholder="Grade" required>
+    <button type="submit">Save Student</button>
+  </form>
+
+  <table id="studentsTable">
+    <thead>
+      <tr>
+        <th>ID</th><th>Name</th><th>Age</th><th>Grade</th><th>Actions</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  
+
+  <script src="script.js"></script>
+</body>
+</html>
